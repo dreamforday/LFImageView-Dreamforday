@@ -1,2 +1,7 @@
 language: objective-c
 osx_image: xcode7
+code_workspace: LFImageView.xcworkspace
+code_scheme: LFImageView
+
+script:
+- xctool -workspace LFImageView.xcworkspace -scheme LFImageView 
