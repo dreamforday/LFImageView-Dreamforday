@@ -1,0 +1,28 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/zhiweiwang/github/LFImageView-Dreamforday/build/Release-iphoneos/LFImageView.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "LFImageView-Swift.h",
+          'external-contents': "/Users/zhiweiwang/github/LFImageView-Dreamforday/build/Release-iphoneos/LFImageView.framework/Headers/LFImageView-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/zhiweiwang/github/LFImageView-Dreamforday/build/Release-iphoneos/LFImageView.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/zhiweiwang/github/LFImageView-Dreamforday/build/LFImageView.build/Release-iphoneos/LFImageView.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

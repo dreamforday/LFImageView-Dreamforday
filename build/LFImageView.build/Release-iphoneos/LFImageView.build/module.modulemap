@@ -1,0 +1,6 @@
+framework module LFImageView {
+  umbrella header "LFImageView.h"
+
+  export *
+  module * { export * }
+}

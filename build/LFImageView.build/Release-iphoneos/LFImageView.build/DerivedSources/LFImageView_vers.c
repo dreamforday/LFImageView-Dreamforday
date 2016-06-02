@@ -1,0 +1,1 @@
+ const unsigned char LFImageViewVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:LFImageView  PROJECT:LFImageView-1" "\n"; const double LFImageViewVersionNumber __attribute__ ((used)) = (double)1.;
